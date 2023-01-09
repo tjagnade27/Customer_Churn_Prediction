@@ -8,4 +8,4 @@ Xgboost accuracy : 0.8088769092542678
 
 Decision Tree accuracy:  0.793755912961211
 
-Xgboost is the best model for customer Churn with the accuracy of 0.8088
+**Xgboost is the best model for customer Churn with the accuracy of 0.8088**
